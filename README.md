@@ -1,0 +1,2 @@
+The MM-POST dataset created by Ali and Khan (2024) is freely available for research and academic purposes, provided that the authors' work is duly referenced as follows:
+Ali, M. and Khan, M. (2024). Development of an urdu pos-tagged dataset for enhanced language processing – proper noun as a case study. In 1st International Conference on Emerging Trends and Challenges in Artificial Intelligence (ICETCAI 2024). Institute of Computer Science and Information Technology, The Women University Multan, Pakistan.
